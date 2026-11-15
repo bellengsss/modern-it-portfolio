@@ -28,3 +28,5 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+Portfolio pages keep section content on the index route and define visual tokens, responsive styles, and motion in the global stylesheet so the single-page experience stays cohesive.
